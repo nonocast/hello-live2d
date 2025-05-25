@@ -304,8 +304,4 @@ lapp*.ts是官方对Framework的封装，管理了canvas, WebGL, 动作, 贴图�
 - - [Live2D Cubism](https://www.live2d.com/zh-CHS/)
 - [Live2D Cubism SDK | Live2D Cubism](https://www.live2d.com/zh-CHS/sdk/about/)
 - [下载Live2D Cubism SDK for Web | Live2D Cubism](https://www.live2d.com/zh-CHS/sdk/download/web/)
-- [Cubism SDK手册 | Cubism SDK 手册 | Live2D Manuals & Tutorials](https://docs.live2d.com/zh-CHS/cubism-sdk-manual/top/?
-
-<img width="1478" alt="Image" src="https://github.com/user-attachments/assets/66340977-9d1b-4bf3-b567-8922539e37ab" />
-
-_gl=1*78xmjy*_gcl_au*MTEwOTczMjk3OS4xNzQ3MDY4NzY0*_ga*MTE0NjU0Mzk5Ni4xNzQ3MDY4NzY1*_ga_VH6T56L1P1*czE3NDgxNzU1NDkkbzckZzEkdDE3NDgxNzY1NzMkajM4JGwwJGgwJGRhVFB4WXVybi1DREZOWFdFWnlJM1R0NXJGRWpLM2tZMXN3)
+- [Cubism SDK手册 | Cubism SDK 手册 | Live2D Manuals & Tutorials](https://docs.live2d.com/zh-CHS/cubism-sdk-manual/top/?  _gl=1*78xmjy*_gcl_au*MTEwOTczMjk3OS4xNzQ3MDY4NzY0*_ga*MTE0NjU0Mzk5Ni4xNzQ3MDY4NzY1*_ga_VH6T56L1P1*czE3NDgxNzU1NDkkbzckZzEkdDE3NDgxNzY1NzMkajM4JGwwJGgwJGRhVFB4WXVybi1DREZOWFdFWnlJM1R0NXJGRWpLM2tZMXN3)
