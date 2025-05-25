@@ -1,0 +1,11 @@
+{
+  "name": "hello-live2d",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nonocast/hello-live2d.git",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}

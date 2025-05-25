@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "baseUrl": ".",
+    "paths": {
+      "@framework/*": ["live2d/framework/*"]
+    },
+    "lib": ["DOM", "ESNext"],
+    "strict": true
+  },
+  "include": ["live2d/**/*.ts"]
+}

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hello Live2D</title>
+    <style>
+      html, body {
+        margin: 0;
+        background-color: #111;
+        overflow: hidden;
+      }
+      canvas {
+        display: block;
+      }
+    </style>
+    <!-- Core 必须先引入并注册为全局变量 -->
+    <script src="/live2d/core/live2dcubismcore.js"></script>
+    <script>
+      window.Live2DCubismCore = Live2DCubismCore;
+    </script>
+  </head>
+  <body>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
